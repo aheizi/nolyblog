@@ -1,0 +1,8 @@
+/**
+ * Created by noly on 16/3/9.
+ */
+public class Test {
+    public static void main(String[] args){
+        System.out.print("Hello world !!");
+    }
+}
